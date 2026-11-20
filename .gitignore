@@ -1,0 +1,74 @@
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 数据库
+*.db
+*.sqlite
+*.sqlite3
+
+# 配置文件（包含敏感信息）
+config.yaml
+
+# 上传和导出文件
+uploads/*
+exports/*
+!uploads/.gitkeep
+!exports/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+# Public candidate: local configuration, runtime and deliverables
+.venv/
+venv-*/
+.env
+.env.*
+!.env.example
+config.local.*
+data/
+*.db-*
+*.sqlite-*
+*.sqlite3-*
+*.pem
+*.key
+*.pfx
+*.p12
+release/
+dist/
+build/
+node_modules/
+*.zip
+*.7z
+*.rar
+*.exe
+*.msi
+*.xlsx
+*.xls
+*.csv
+*.docx
+*.pdf
+*.mp4
+*.mov

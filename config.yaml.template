@@ -1,0 +1,23 @@
+# Copy to config.yaml locally. Never commit the populated file.
+api:
+  deepseek_api_key: ''
+  models:
+    text_generation: deepseek-v4-flash
+  endpoint: https://api.deepseek.com
+  timeout_seconds: 120
+system:
+  project_name: SPARK 备课工作台
+  version: 1.0.0
+  description: 面向中小学体育教师的智能备课与学情分析演示平台
+database:
+  type: sqlite
+  path: ./data/spark.db
+storage:
+  upload_path: ./uploads
+  export_path: ./exports
+ui:
+  theme: light
+  primary_color: '#1E88E5'
+  secondary_color: '#43A047'
+  background_color: '#F5F7FA'
+  text_color: '#263238'

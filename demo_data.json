@@ -1,0 +1,1100 @@
+{
+  "school_name": "SPARK 演示学校",
+  "academic_year": "2026-2027",
+  "classes": [
+    {
+      "class_id": "DEMO-C01",
+      "class_name": "小学三年级（演示班）",
+      "grade": "小学三年级",
+      "grade_level": "primary",
+      "grade_number": 3,
+      "students": [
+        {
+          "student_id": "DEMO-001",
+          "name": "演示学生01",
+          "gender": "男",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 136,
+                "weight": 33,
+                "vital_capacity": 1835,
+                "50m_run": 9.9,
+                "sit_and_reach": 15.1,
+                "1min_rope_skip": 98,
+                "1min_sit_ups": 25
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 137,
+                "weight": 33,
+                "vital_capacity": 1895,
+                "50m_run": 9.6,
+                "sit_and_reach": 14.6,
+                "1min_rope_skip": 104,
+                "1min_sit_ups": 27
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-002",
+          "name": "演示学生02",
+          "gender": "女",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 137,
+                "weight": 34,
+                "vital_capacity": 1870,
+                "50m_run": 10.3,
+                "sit_and_reach": 16.4,
+                "1min_rope_skip": 101,
+                "1min_sit_ups": 26
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 138,
+                "weight": 34,
+                "vital_capacity": 1930,
+                "50m_run": 8.6,
+                "sit_and_reach": 18.5,
+                "1min_rope_skip": 107,
+                "1min_sit_ups": 28
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-003",
+          "name": "演示学生03",
+          "gender": "男",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 138,
+                "weight": 35,
+                "vital_capacity": 1905,
+                "50m_run": 9.1,
+                "sit_and_reach": 16.6,
+                "1min_rope_skip": 104,
+                "1min_sit_ups": 27
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 139,
+                "weight": 35,
+                "vital_capacity": 1965,
+                "50m_run": 8.7,
+                "sit_and_reach": 9.0,
+                "1min_rope_skip": 110,
+                "1min_sit_ups": 29
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-004",
+          "name": "演示学生04",
+          "gender": "女",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 139,
+                "weight": 36,
+                "vital_capacity": 1940,
+                "50m_run": 9.6,
+                "sit_and_reach": 15.2,
+                "1min_rope_skip": 107,
+                "1min_sit_ups": 28
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 140,
+                "weight": 36,
+                "vital_capacity": 2000,
+                "50m_run": 8.1,
+                "sit_and_reach": 13.4,
+                "1min_rope_skip": 113,
+                "1min_sit_ups": 30
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-005",
+          "name": "演示学生05",
+          "gender": "男",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 140,
+                "weight": 37,
+                "vital_capacity": 1975,
+                "50m_run": 8.9,
+                "sit_and_reach": 16.1,
+                "1min_rope_skip": 110,
+                "1min_sit_ups": 29
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 141,
+                "weight": 37,
+                "vital_capacity": 2035,
+                "50m_run": 9.2,
+                "sit_and_reach": 9.1,
+                "1min_rope_skip": 116,
+                "1min_sit_ups": 31
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-006",
+          "name": "演示学生06",
+          "gender": "女",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 141,
+                "weight": 38,
+                "vital_capacity": 2010,
+                "50m_run": 8.7,
+                "sit_and_reach": 12.8,
+                "1min_rope_skip": 113,
+                "1min_sit_ups": 30
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 142,
+                "weight": 38,
+                "vital_capacity": 2070,
+                "50m_run": 10.0,
+                "sit_and_reach": 10.2,
+                "1min_rope_skip": 119,
+                "1min_sit_ups": 32
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-007",
+          "name": "演示学生07",
+          "gender": "男",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 142,
+                "weight": 32,
+                "vital_capacity": 2045,
+                "50m_run": 9.0,
+                "sit_and_reach": 15.0,
+                "1min_rope_skip": 116,
+                "1min_sit_ups": 31
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 143,
+                "weight": 32,
+                "vital_capacity": 2105,
+                "50m_run": 9.8,
+                "sit_and_reach": 9.9,
+                "1min_rope_skip": 122,
+                "1min_sit_ups": 33
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-008",
+          "name": "演示学生08",
+          "gender": "女",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 135,
+                "weight": 33,
+                "vital_capacity": 2080,
+                "50m_run": 9.3,
+                "sit_and_reach": 10.1,
+                "1min_rope_skip": 119,
+                "1min_sit_ups": 32
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 136,
+                "weight": 33,
+                "vital_capacity": 2140,
+                "50m_run": 9.3,
+                "sit_and_reach": 11.1,
+                "1min_rope_skip": 125,
+                "1min_sit_ups": 34
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-009",
+          "name": "演示学生09",
+          "gender": "男",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 136,
+                "weight": 34,
+                "vital_capacity": 2115,
+                "50m_run": 9.1,
+                "sit_and_reach": 16.4,
+                "1min_rope_skip": 122,
+                "1min_sit_ups": 33
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 137,
+                "weight": 34,
+                "vital_capacity": 2175,
+                "50m_run": 9.9,
+                "sit_and_reach": 10.7,
+                "1min_rope_skip": 128,
+                "1min_sit_ups": 35
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-010",
+          "name": "演示学生10",
+          "gender": "女",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 137,
+                "weight": 35,
+                "vital_capacity": 2150,
+                "50m_run": 8.8,
+                "sit_and_reach": 15.3,
+                "1min_rope_skip": 125,
+                "1min_sit_ups": 34
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 138,
+                "weight": 35,
+                "vital_capacity": 2210,
+                "50m_run": 9.4,
+                "sit_and_reach": 17.1,
+                "1min_rope_skip": 131,
+                "1min_sit_ups": 36
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class_id": "DEMO-C02",
+      "class_name": "初中一年级（演示班）",
+      "grade": "初中一年级",
+      "grade_level": "junior",
+      "grade_number": 1,
+      "students": [
+        {
+          "student_id": "DEMO-011",
+          "name": "演示学生11",
+          "gender": "男",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 161,
+                "weight": 50,
+                "vital_capacity": 2935,
+                "50m_run": 8.9,
+                "sit_and_reach": 8.2,
+                "standing_long_jump": 172,
+                "pull_ups": 4,
+                "1000m_run": 253
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 162,
+                "weight": 50,
+                "vital_capacity": 2995,
+                "50m_run": 10.0,
+                "sit_and_reach": 13.2,
+                "standing_long_jump": 175,
+                "pull_ups": 5,
+                "1000m_run": 248
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-012",
+          "name": "演示学生12",
+          "gender": "女",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 162,
+                "weight": 51,
+                "vital_capacity": 2970,
+                "50m_run": 9.1,
+                "sit_and_reach": 12.0,
+                "standing_long_jump": 174,
+                "1min_sit_ups": 26,
+                "800m_run": 239
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 163,
+                "weight": 51,
+                "vital_capacity": 3030,
+                "50m_run": 9.1,
+                "sit_and_reach": 17.8,
+                "standing_long_jump": 177,
+                "1min_sit_ups": 28,
+                "800m_run": 234
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-013",
+          "name": "演示学生13",
+          "gender": "男",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 163,
+                "weight": 52,
+                "vital_capacity": 3005,
+                "50m_run": 9.4,
+                "sit_and_reach": 15.2,
+                "standing_long_jump": 176,
+                "pull_ups": 6,
+                "1000m_run": 259
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 164,
+                "weight": 52,
+                "vital_capacity": 3065,
+                "50m_run": 8.7,
+                "sit_and_reach": 14.4,
+                "standing_long_jump": 179,
+                "pull_ups": 7,
+                "1000m_run": 254
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-014",
+          "name": "演示学生14",
+          "gender": "女",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 164,
+                "weight": 53,
+                "vital_capacity": 3040,
+                "50m_run": 9.4,
+                "sit_and_reach": 9.8,
+                "standing_long_jump": 178,
+                "1min_sit_ups": 28,
+                "800m_run": 243
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 165,
+                "weight": 53,
+                "vital_capacity": 3100,
+                "50m_run": 10.1,
+                "sit_and_reach": 13.3,
+                "standing_long_jump": 181,
+                "1min_sit_ups": 30,
+                "800m_run": 238
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-015",
+          "name": "演示学生15",
+          "gender": "男",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 165,
+                "weight": 54,
+                "vital_capacity": 3075,
+                "50m_run": 10.3,
+                "sit_and_reach": 10.2,
+                "standing_long_jump": 180,
+                "pull_ups": 8,
+                "1000m_run": 265
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 166,
+                "weight": 54,
+                "vital_capacity": 3135,
+                "50m_run": 9.1,
+                "sit_and_reach": 16.4,
+                "standing_long_jump": 183,
+                "pull_ups": 9,
+                "1000m_run": 260
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-016",
+          "name": "演示学生16",
+          "gender": "女",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 166,
+                "weight": 55,
+                "vital_capacity": 3110,
+                "50m_run": 8.2,
+                "sit_and_reach": 8.6,
+                "standing_long_jump": 182,
+                "1min_sit_ups": 30,
+                "800m_run": 247
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 167,
+                "weight": 55,
+                "vital_capacity": 3170,
+                "50m_run": 9.1,
+                "sit_and_reach": 15.4,
+                "standing_long_jump": 185,
+                "1min_sit_ups": 32,
+                "800m_run": 242
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-017",
+          "name": "演示学生17",
+          "gender": "男",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 167,
+                "weight": 49,
+                "vital_capacity": 3145,
+                "50m_run": 10.0,
+                "sit_and_reach": 9.6,
+                "standing_long_jump": 184,
+                "pull_ups": 3,
+                "1000m_run": 271
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 168,
+                "weight": 49,
+                "vital_capacity": 3205,
+                "50m_run": 9.4,
+                "sit_and_reach": 13.7,
+                "standing_long_jump": 187,
+                "pull_ups": 4,
+                "1000m_run": 266
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-018",
+          "name": "演示学生18",
+          "gender": "女",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 160,
+                "weight": 50,
+                "vital_capacity": 3180,
+                "50m_run": 9.1,
+                "sit_and_reach": 14.6,
+                "standing_long_jump": 186,
+                "1min_sit_ups": 32,
+                "800m_run": 251
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 161,
+                "weight": 50,
+                "vital_capacity": 3240,
+                "50m_run": 9.9,
+                "sit_and_reach": 12.6,
+                "standing_long_jump": 189,
+                "1min_sit_ups": 34,
+                "800m_run": 246
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-019",
+          "name": "演示学生19",
+          "gender": "男",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 161,
+                "weight": 51,
+                "vital_capacity": 3215,
+                "50m_run": 9.1,
+                "sit_and_reach": 15.7,
+                "standing_long_jump": 188,
+                "pull_ups": 5,
+                "1000m_run": 277
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 162,
+                "weight": 51,
+                "vital_capacity": 3275,
+                "50m_run": 10.2,
+                "sit_and_reach": 17.3,
+                "standing_long_jump": 191,
+                "pull_ups": 6,
+                "1000m_run": 272
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-020",
+          "name": "演示学生20",
+          "gender": "女",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 162,
+                "weight": 52,
+                "vital_capacity": 3250,
+                "50m_run": 9.9,
+                "sit_and_reach": 15.1,
+                "standing_long_jump": 190,
+                "1min_sit_ups": 34,
+                "800m_run": 255
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 163,
+                "weight": 52,
+                "vital_capacity": 3310,
+                "50m_run": 8.7,
+                "sit_and_reach": 14.6,
+                "standing_long_jump": 193,
+                "1min_sit_ups": 36,
+                "800m_run": 250
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class_id": "DEMO-C03",
+      "class_name": "高中一年级（演示班）",
+      "grade": "高中一年级",
+      "grade_level": "senior",
+      "grade_number": 1,
+      "students": [
+        {
+          "student_id": "DEMO-021",
+          "name": "演示学生21",
+          "gender": "男",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 170,
+                "weight": 59,
+                "vital_capacity": 3535,
+                "50m_run": 8.9,
+                "sit_and_reach": 14.2,
+                "standing_long_jump": 172,
+                "pull_ups": 4,
+                "1000m_run": 253
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 171,
+                "weight": 59,
+                "vital_capacity": 3595,
+                "50m_run": 9.2,
+                "sit_and_reach": 16.1,
+                "standing_long_jump": 175,
+                "pull_ups": 5,
+                "1000m_run": 248
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-022",
+          "name": "演示学生22",
+          "gender": "女",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 171,
+                "weight": 60,
+                "vital_capacity": 3570,
+                "50m_run": 10.0,
+                "sit_and_reach": 11.3,
+                "standing_long_jump": 174,
+                "1min_sit_ups": 26,
+                "800m_run": 239
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 172,
+                "weight": 60,
+                "vital_capacity": 3630,
+                "50m_run": 10.1,
+                "sit_and_reach": 17.8,
+                "standing_long_jump": 177,
+                "1min_sit_ups": 28,
+                "800m_run": 234
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-023",
+          "name": "演示学生23",
+          "gender": "男",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 172,
+                "weight": 61,
+                "vital_capacity": 3605,
+                "50m_run": 8.9,
+                "sit_and_reach": 8.4,
+                "standing_long_jump": 176,
+                "pull_ups": 6,
+                "1000m_run": 259
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 173,
+                "weight": 61,
+                "vital_capacity": 3665,
+                "50m_run": 9.1,
+                "sit_and_reach": 11.3,
+                "standing_long_jump": 179,
+                "pull_ups": 7,
+                "1000m_run": 254
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-024",
+          "name": "演示学生24",
+          "gender": "女",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 173,
+                "weight": 62,
+                "vital_capacity": 3640,
+                "50m_run": 9.5,
+                "sit_and_reach": 14.0,
+                "standing_long_jump": 178,
+                "1min_sit_ups": 28,
+                "800m_run": 243
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 174,
+                "weight": 62,
+                "vital_capacity": 3700,
+                "50m_run": 8.2,
+                "sit_and_reach": 9.1,
+                "standing_long_jump": 181,
+                "1min_sit_ups": 30,
+                "800m_run": 238
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-025",
+          "name": "演示学生25",
+          "gender": "男",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 174,
+                "weight": 63,
+                "vital_capacity": 3675,
+                "50m_run": 9.4,
+                "sit_and_reach": 16.8,
+                "standing_long_jump": 180,
+                "pull_ups": 8,
+                "1000m_run": 265
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 175,
+                "weight": 63,
+                "vital_capacity": 3735,
+                "50m_run": 8.4,
+                "sit_and_reach": 16.5,
+                "standing_long_jump": 183,
+                "pull_ups": 9,
+                "1000m_run": 260
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-026",
+          "name": "演示学生26",
+          "gender": "女",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 175,
+                "weight": 64,
+                "vital_capacity": 3710,
+                "50m_run": 9.0,
+                "sit_and_reach": 8.3,
+                "standing_long_jump": 182,
+                "1min_sit_ups": 30,
+                "800m_run": 247
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 176,
+                "weight": 64,
+                "vital_capacity": 3770,
+                "50m_run": 10.1,
+                "sit_and_reach": 16.5,
+                "standing_long_jump": 185,
+                "1min_sit_ups": 32,
+                "800m_run": 242
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-027",
+          "name": "演示学生27",
+          "gender": "男",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 176,
+                "weight": 58,
+                "vital_capacity": 3745,
+                "50m_run": 9.2,
+                "sit_and_reach": 11.4,
+                "standing_long_jump": 184,
+                "pull_ups": 3,
+                "1000m_run": 271
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 177,
+                "weight": 58,
+                "vital_capacity": 3805,
+                "50m_run": 9.9,
+                "sit_and_reach": 10.9,
+                "standing_long_jump": 187,
+                "pull_ups": 4,
+                "1000m_run": 266
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-028",
+          "name": "演示学生28",
+          "gender": "女",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 169,
+                "weight": 59,
+                "vital_capacity": 3780,
+                "50m_run": 8.4,
+                "sit_and_reach": 8.7,
+                "standing_long_jump": 186,
+                "1min_sit_ups": 32,
+                "800m_run": 251
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 170,
+                "weight": 59,
+                "vital_capacity": 3840,
+                "50m_run": 9.1,
+                "sit_and_reach": 15.3,
+                "standing_long_jump": 189,
+                "1min_sit_ups": 34,
+                "800m_run": 246
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-029",
+          "name": "演示学生29",
+          "gender": "男",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 170,
+                "weight": 60,
+                "vital_capacity": 3815,
+                "50m_run": 9.0,
+                "sit_and_reach": 13.2,
+                "standing_long_jump": 188,
+                "pull_ups": 5,
+                "1000m_run": 277
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 171,
+                "weight": 60,
+                "vital_capacity": 3875,
+                "50m_run": 8.8,
+                "sit_and_reach": 10.6,
+                "standing_long_jump": 191,
+                "pull_ups": 6,
+                "1000m_run": 272
+              }
+            }
+          ]
+        },
+        {
+          "student_id": "DEMO-030",
+          "name": "演示学生30",
+          "gender": "女",
+          "special_conditions": [],
+          "test_records": [
+            {
+              "test_date": "2026-03-15",
+              "test_type": "演示期初测试",
+              "scores": {
+                "height": 171,
+                "weight": 61,
+                "vital_capacity": 3850,
+                "50m_run": 10.0,
+                "sit_and_reach": 9.0,
+                "standing_long_jump": 190,
+                "1min_sit_ups": 34,
+                "800m_run": 255
+              }
+            },
+            {
+              "test_date": "2026-05-15",
+              "test_type": "演示期末测试",
+              "scores": {
+                "height": 172,
+                "weight": 61,
+                "vital_capacity": 3910,
+                "50m_run": 10.0,
+                "sit_and_reach": 9.5,
+                "standing_long_jump": 193,
+                "1min_sit_ups": 36,
+                "800m_run": 250
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "created_date": "2026-11-19",
+    "description": "纯合成演示数据；姓名、学校、编号和成绩均非真实记录，不能用于验证评分标准准确性或提出实际训练处方。",
+    "total_students": 30,
+    "synthetic": true,
+    "generator_seed": 20261119
+  }
+}
